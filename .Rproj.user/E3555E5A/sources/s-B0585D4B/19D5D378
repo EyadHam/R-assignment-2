@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575230266436.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "19D5D378",
+    "lastKnownWriteTime" : 495873782899,
+    "last_content_update" : 1575230266436,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "20876919",
+        "caption" : "campaigns",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=campaigns&cache_key=20876919",
+        "displayedObservations" : 5,
+        "environment" : "",
+        "expression" : "campaigns",
+        "object" : "campaigns",
+        "preview" : 0,
+        "totalObservations" : 5,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
